@@ -12,6 +12,11 @@
 </head>
 <body>
 	<!-- Them chu thich -->
+<<<<<<< HEAD
+	<!-- Ruby Hello world -->
+=======
+	<!-- Them mot dong chu thich khac -->
+>>>>>>> ff5fcee6a3586f257161f6e0688b5b08ac2669bc
 	<!--<header class="navbar navbar-fixed-top navbar-inverse" > -->
 	<%= render 'layouts/header' %>
 	
